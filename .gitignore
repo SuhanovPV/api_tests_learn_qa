@@ -2,3 +2,4 @@
 .idea
 __pycache__/
 allure-results/
+.pytest_cache
