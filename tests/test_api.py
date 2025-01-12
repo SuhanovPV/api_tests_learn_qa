@@ -4,6 +4,8 @@ from api_tests_learn_qa.utils import get_json_schema, custom_requests
 from api_tests_learn_qa.data.user import User
 from api_tests_learn_qa.data.data_generator import email_generator
 
+@allure.parent_suite('API Tests')
+@allure.suite('API methods for User')
 @allure.epic('api')
 @allure.story('Test api methods for work with user ')
 @allure.tag('api', 'user', 'create')
