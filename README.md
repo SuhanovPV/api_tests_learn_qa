@@ -21,7 +21,7 @@
 
 ## <img width="3%" title="Jenkins" src="source/jenkins.svg"> Запуск проекта в Jenkins
 #### Для запуска автотестов в Jenkins
-1. __Открыть проект <a href="https://jenkins.autotests.cloud/job/c16-chip-dip/">в Jenkins</a>__
+1. __Открыть проект <a href="https://jenkins.autotests.cloud/job/c16-api_tests_learn_qa/">в Jenkins</a>__
 2. __Нажать кнопку `Build`__
 3. __Результат запуска сборки можно посмотреть в отчете Allure__
 
@@ -38,7 +38,7 @@
 > __Каждый тесто содержит детальную информацию по всем шагам тестов, включая подробное логирование всех запросов:
 
 ## <img width="3%" title="Allure testopts"  src="source/allure-testops.png"> Интеграция с Allure TestOps
->__<a href="">Dashboard</a>__
+>__<a href="https://allure.autotests.cloud/project/4557/settings/access/collaborators">Dashboard</a>__
 <img width="1200" src="source/w">
 
 ## <img width="3%" title="Telegram"  src="source/telegram.svg"> Оповещения в Telegram
