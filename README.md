@@ -35,12 +35,3 @@
 >__Отчет позволяет получить информацию о прохождении каждого теста__
 >__Каждый тесто содержит детальную информацию по всем шагам тестов, включая подробное логирование всех запросов:__
 <img width="1200" src="source/allure_report_suites_one_test.png">
-> __Каждый тесто содержит детальную информацию по всем шагам тестов, включая подробное логирование всех запросов:
-
-## <img width="3%" title="Allure testopts"  src="source/allure-testops.png"> Интеграция с Allure TestOps
->__<a href="https://allure.autotests.cloud/project/4557/settings/access/collaborators">Dashboard</a>__
-<img width="1200" src="source/w">
-
-## <img width="3%" title="Telegram"  src="source/telegram.svg"> Оповещения в Telegram
->__После выполнения тестов, в Telegram bot приходит сообщение с графиком и информацией о тестовом прогоне.__
-> <img width="120" src="source/tg">
