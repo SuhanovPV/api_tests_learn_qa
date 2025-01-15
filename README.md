@@ -1,10 +1,11 @@
 # Проект по тестированию API для тестового API LearnQA API
 > <a target="_blank" href="https://playground.learnqa.ru/api/map">Swagger тестового API</a>
 <img width="1200" src="source/swagger.png">
+
 ## Используемый стек технологий и инструментов
-|                        Python                         |                        Pytest                         |                       Requests                        |                        Git                         |                        Jenkins                         |                        Allure                         |                        Allure TestOps                         |                        Telegram                         |
-|:-----------------------------------------------------:|:-----------------------------------------------------:|:-----------------------------------------------------:|:--------------------------------------------------:|:------------------------------------------------------:|:-----------------------------------------------------:|:-------------------------------------------------------------:|:-------------------------------------------------------:|
-| <img width="55" height="55" src="source/python.svg"/> | <img width="55" height="55" src="source/requests.webp"/> | <img width="55" height="55" src="source/pytest.svg"/> | <img width="55" height="55" src="source/git.svg"/> | <img width="55" height="55" src="source/jenkins.svg"/> | <img width="55" height="55" src="source/allure.svg"/> | <img width="40" height="40" src="source/allure-testops.png"/> | <img width="40" height="40" src="source/telegram.svg"/> |
+|                        Python                         |                          Pytest                          |                       Requests                        |                        Git                         |                        Jenkins                         |                        Allure                         |                        Allure TestOps                         |                         Telegram                         |
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| <img width="55" height="55" src="source/python.svg"/> | <img width="55" height="55" src="source/requests.webp"/> | <img width="55" height="55" src="source/pytest.svg"/> | <img width="55" height="55" src="source/git.svg"/> | <img width="55" height="55" src="source/jenkins.svg"/> | <img width="55" height="55" src="source/allure.svg"/> | <img width="40" height="40" src="source/allure-testops.png"/> | <img width="40" height="40" src="source/telegram.svg"/>  |
 
 ## Tесты
 <ul style="list-style-type: '\2705 &#160'">
@@ -35,3 +36,7 @@
 >__Отчет позволяет получить информацию о прохождении каждого теста__
 >__Каждый тесто содержит детальную информацию по всем шагам тестов, включая подробное логирование всех запросов:__
 <img width="1200" src="source/allure_report_suites_one_test.png">
+
+## <img width="3%" title="Telegram"  src="source/telegram.svg"> Оповещения в Telegram
+>__После выполнения тестов, в Telegram bot приходит сообщение с графиком и информацией о тестовом прогоне.<br>__
+> <img width="120" src="source/tg_report.png">
